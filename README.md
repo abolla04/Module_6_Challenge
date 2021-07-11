@@ -1,7 +1,7 @@
 # San Francisco Neighborhood Housing Market Analysis
 
 This is a Jupyter notebook analysis to evaluate the housing market throughout various
-neighboorhoods in San Francisco.  Multiple databases are utilized to show the average sales price
+neighborhoods in San Francisco.  Multiple databases are utilized to show the average sales price
 per square foot and in comparison, the average gross rental income.  With these figures, a
 real estate investor could narrow in on specific neighborhoods to find the largest return on investment.
 
@@ -41,10 +41,9 @@ housing market between 2010 and 2016.
 Moving forward through the analysis, a visual shows how the gross rent increases at a much steeper rate
 as compared to the sale price per square foot, which experienced only a slight increase.
 
-Using a more targeted approach, the next graph is interactive and the user can toggle through the various neighborhoods to pinpoint the difference and trends with sale price per square foot and average
-gross rent.
+Using a more targeted approach, the next graph is interactive and the user can toggle through the various neighborhoods to pinpoint the difference and trends with sale price per square foot and average gross rent.
 
-Finally, geospatial relationships in data are showcased in an interactive map of the neighborhoods.  This visual will assist a real estate investor in making the most of their investment based on the potential gross retal income.  
+Finally, geospatial relationships in data are showcased in an interactive map of the neighborhoods.  This visual will assist a real estate investor in making the most of their investment based on the potential gross rental income.  
 
 ---
 
